@@ -1,0 +1,52 @@
+.info-section {
+    background-color: #f8f9fa;
+    padding: 40px 20px;
+}
+
+.info-content {
+    max-width: 600px;
+}
+
+.stats-section {
+    background-color: #212529;
+    color: #fff;
+    padding: 20px 0;
+}
+
+.stat-box {
+    text-align: center;
+    padding: 10px 0;
+}
+
+.stat-number {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.stat-text {
+    font-size: 16px;
+}
+
+.icon-card {
+    transition: transform 0.2s ease;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.icon-card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+.testimonial-section {
+    /* background: #9eb3c9; */
+    color: #000000;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.testimonial-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
